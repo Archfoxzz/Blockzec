@@ -70,5 +70,3 @@ Solidity source
 4. Add a Dockerfile and deploy a demo.
 5. Add CI to run tests and linting on each push.
 
-## Resume bullet (use only after verifying your own results)
-Built SentinelSC, a Solidity security-analysis MVP combining heuristic vulnerability checks, retrieval-grounded security guidance, optional LLM explanations, and downloadable audit reports; added unit tests and sample contracts.
