@@ -1,4 +1,4 @@
-# SentinelSC — AI Smart Contract Security Auditor
+# Blockzec — AI Smart Contract Security Auditor
 
 A local-first portfolio MVP for Solidity security review. It combines:
 - Heuristic source-code checks for selected risky patterns.
